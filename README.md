@@ -1,2 +1,2 @@
 # codyops
-##Aprendizaje GIT
+#Aprendizaje GIT
